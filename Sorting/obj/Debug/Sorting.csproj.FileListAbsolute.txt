@@ -1,0 +1,7 @@
+C:\Users\eric_\OneDrive\Área de Trabalho\faculdade\POO\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\eric_\OneDrive\Área de Trabalho\faculdade\POO\Sorting\bin\Debug\Sorting.exe
+C:\Users\eric_\OneDrive\Área de Trabalho\faculdade\POO\Sorting\bin\Debug\Sorting.pdb
+C:\Users\eric_\OneDrive\Área de Trabalho\faculdade\POO\Sorting\obj\Debug\Sorting.csproj.AssemblyReference.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\faculdade\POO\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\faculdade\POO\Sorting\obj\Debug\Sorting.exe
+C:\Users\eric_\OneDrive\Área de Trabalho\faculdade\POO\Sorting\obj\Debug\Sorting.pdb
